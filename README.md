@@ -1,6 +1,6 @@
-from qiskit import QuantumCircuit
+# Quantum Laboratory
 
-qc = QuantumCircuit(1)
-qc.h(0)
+Learning quantum computing with Qiskit.
 
-print(qc)
+## Topics
+- Bell states
